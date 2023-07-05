@@ -43,4 +43,3 @@ namespace Ebill.Controllers
         }
     }
 }
-//details
